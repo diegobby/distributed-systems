@@ -1,3 +1,5 @@
+
+//mock data
 function getStock(){
 
 const ticker = document.getElementById("ticker").value.toUpperCase()
